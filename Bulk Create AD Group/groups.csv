@@ -1,0 +1,4 @@
+GroupName,Description,OU
+XFER_R43,Some Description,"OU=Financial,DC=DOMAIN,DC=COM"
+IT_R43,Some Description That is different,"OU=IT,DC=DOMAIN,DC=COM"
+
